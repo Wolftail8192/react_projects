@@ -1,5 +1,5 @@
 import './App.css';
-import Users from "./Components/Users";
+import Users from "./Components/Users/Users";
 const App = () => {
 
   return (
